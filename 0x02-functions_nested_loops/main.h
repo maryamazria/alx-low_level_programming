@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * main - Prints _putchar as a message.
  *
